@@ -1,6 +1,3 @@
-Certainly! Here's an updated README.md file that includes installation procedures and detailed instructions:
-
-```markdown
 # MASK_DETECTION
 
 ## Overview
@@ -11,14 +8,13 @@ This repository contains a Python script for face mask detection using a pre-tra
 
 ## Installation
 1. Clone the repository to your local machine:
+   
    ```bash
    git clone https://github.com/yourusername/MASK_DETECTION.git
-   ```
 
 2. Navigate to the project directory:
    ```bash
    cd MASK_DETECTION
-   ```
 
 3. Install the required Python packages using pip:
    ```bash
