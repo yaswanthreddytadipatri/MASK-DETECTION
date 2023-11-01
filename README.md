@@ -32,14 +32,3 @@ This repository contains a Python script for face mask detection using a pre-tra
 3. The script will start a video stream and detect faces with or without masks, displaying the result in real-time.
 
 4. Press 'q' to quit the video stream.
-
-## Contributors
-- [Your Name]
-
-## License
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
-```
-
-Remember to replace `[Your Name]` and `[License Name]` with your name and the appropriate license for your project. Make sure to create a `LICENSE` file if you haven't already and specify the license you want to use.
-
-Save the above content to a file named `README.md` in your project directory.
